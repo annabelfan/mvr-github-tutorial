@@ -1,10 +1,14 @@
 # Collaborative Lab Poem
 
-*Instructions:*
+**Instructions:**
 1) Clone this repository onto your desktop
 2) Fill in one of the blanks below in the README.md file that fits the prompt in the parentheses.
 3) In GitHub desktop, add a commit message, commit your change, and push your change to the remote repository.
    
+
+-----------------------
+
+
 
 In a lab full of _______ (plural noun) and light,
 We studied the _______ (body part) day and night.
