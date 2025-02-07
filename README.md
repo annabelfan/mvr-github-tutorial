@@ -14,7 +14,7 @@ In a lab full of _______ (plural noun) and light,
 We studied the _______ (body part) day and night.
 The _______ (adjective) _______ (noun)
 Displayed quite a sight,
-As we tested with _______ (tool) so bright.
+As we tested with photometer (tool) so bright.
 
 
 The _______ (plural noun) would blink and then stare,
