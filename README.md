@@ -1,4 +1,4 @@
-# Collaborative Lab Poem
+# Self Lab Poem
 
 **Instructions:**
 1) Clone this repository onto your desktop
